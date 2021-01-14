@@ -1,0 +1,40 @@
+body{
+    font-family: 'Libre Franklin', sans-serif;
+    /*This pattern is downloaded from www.toptal.com/designers/subtlepatterns/ */  
+    background-image: url(img/positive.png);
+    color:rgb(0, 0, 0)
+}
+
+.background{
+    background-color: rgba(255, 255, 255, 0.932);
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 150px;
+    text-align: center;
+}
+
+h3{
+    font-weight: 900;
+    font-size: 1.7em;
+    letter-spacing: 2px;
+}
+
+input{
+    border-radius: 10px;
+    border: black dashed;
+    background-color: white;
+    
+}
+.button{
+font-family: 'Libre Franklin', sans-serif;
+font-size: 1.1em;
+background-color: black;
+color: white;
+}
+
+#solution{
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
